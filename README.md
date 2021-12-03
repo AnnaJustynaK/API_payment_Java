@@ -1,10 +1,4 @@
-<a href="https://github.com/globalpayments" target="_blank">
-    <img src="https://developer.globalpay.com/static/media/logo.dab7811d.svg" alt="Global Payments logo" title="Global Payments" align="right" width="225" />
-</a>
-
-# Heartland & Global Payments Java SDK
-
-This SDK makes it easy to integrate your Java application with our Card Not Present and Card Present APIs. 
+Easy to integrate your Java application with our Card Not Present and Card Present APIs. 
 
 ## Solutions
 
@@ -128,17 +122,3 @@ catch (ApiException e)
 }
 ```
 
-## Contributing
-
-All our code is open sourced and we encourage fellow developers to contribute and help improve it!
-
-1. Fork it
-2. Create your feature branch (`git checkout -b my-new-feature`)
-3. Ensure SDK tests are passing
-4. Commit your changes (`git commit -am 'Add some feature'`)
-5. Push to the branch (`git push origin my-new-feature`)
-6. Create new Pull Request
-
-## License
-
-This project is licensed under the GNU General Public License v2.0. Please see [LICENSE.md](LICENSE.md) located at the project's root for more details.
